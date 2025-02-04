@@ -14,19 +14,25 @@
 *MENTOR*: NEELA SANTHOSH KUMAR
 
 ##DESCRIPTION OF DECISION TREE IMPLEMENTATION TASK : - 
-*Tools Used:
-Python - Programming language used for implementation.
-Scikit-learn - Library for machine learning, used for dataset handling, model training, evaluation, and visualization.
-Matplotlib & Seaborn - Libraries for data visualization (feature importance, pair plots, and decision tree visualization).
-Pandas & NumPy - Libraries for data manipulation and numerical computations.
-*Editor/Platform Used:
-Jupyter Notebook  - Provides an interactive environment for executing Python code, visualizing data, and debugging.
-*Applications of This Task:
-Predictive Modeling - Decision trees are widely used in classification and regression problems across industries.
-Healthcare - Used for disease diagnosis based on symptoms and medical history.
-Finance - Helps in credit risk assessment and fraud detection.
-Retail & Marketing - Customer segmentation and product recommendation systems.
-Education - Student performance prediction based on various factors.
+*Tools and Libraries Used-
+Python: The primary programming language used for the implementation.
+Pandas: A library for data manipulation and analysis, used to handle the dataset.
+NumPy: A library for numerical computations, used for handling arrays and mathematical operations.
+Scikit-learn: A machine learning library that provides tools for model training, evaluation, and metrics.
+load_iris: A function to load the Iris dataset.
+DecisionTreeClassifier: The machine learning model used for classification.
+train_test_split: A function to split the dataset into training and testing sets.
+export_text: A function to export the decision tree rules in a textual format.
+plot_tree: A function to visualize the decision tree.
+Matplotlib: A plotting library used for visualizing data.
+Seaborn: A statistical data visualization library based on Matplotlib, used for creating attractive and informative statistical graphics.
+*Editor/Platform Used-
+Jupyter Notebook: An interactive computing environment that allows for the creation and sharing of documents containing live code, equations, visualizations, and narrative text. It is particularly useful for data analysis and visualization tasks.
+*Task Applicability-
+Classification Problems: Decision Trees can be applied to various classification problems in different domains, such as healthcare (disease diagnosis), finance (credit scoring), and marketing (customer segmentation).
+Feature Importance Analysis: Understanding which features contribute most to the predictions can help in feature selection and improving model performance.
+Decision Support Systems: Decision Trees can be used in systems that require clear decision-making processes, such as loan approval systems or medical diagnosis tools.
+Data Exploration: The visual nature of Decision Trees makes them useful for exploratory data analysis, allowing stakeholders to understand the decision-making process of the model.
 
 #OUTPUT-
 
